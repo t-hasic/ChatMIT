@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChatMIT/static/css/main.2a0d4220.css",
+    "main.js": "/ChatMIT/static/js/main.eae370b3.js",
+    "static/media/food.png": "/ChatMIT/static/media/food.7f68c24f859dced3471c.png",
+    "static/media/tim2.png": "/ChatMIT/static/media/tim2.972c058722b89df261a5.png",
+    "static/media/avatar.png": "/ChatMIT/static/media/avatar.3e2dcc8ccfde86957a54.png",
+    "static/media/hydrant.png": "/ChatMIT/static/media/hydrant.2cfae72174eac1aa7175.png",
+    "static/media/map.png": "/ChatMIT/static/media/map.7e5c3d6a51a136b64d59.png",
+    "static/media/rocket.svg": "/ChatMIT/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/ChatMIT/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/ChatMIT/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "index.html": "/ChatMIT/index.html",
+    "static/media/home.svg": "/ChatMIT/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "main.2a0d4220.css.map": "/ChatMIT/static/css/main.2a0d4220.css.map",
+    "main.eae370b3.js.map": "/ChatMIT/static/js/main.eae370b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0d4220.css",
+    "static/js/main.eae370b3.js"
+  ]
+}
